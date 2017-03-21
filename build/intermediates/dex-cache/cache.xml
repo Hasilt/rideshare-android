@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sam Haris\.android\build-cache\94fa1a946fdb9af4e78df18ed6cec70bfd83dfa8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="D:\nn\android\rideshare\app\build\intermediates\pre-dexed\debug\classes_fba9d0fff2b44e01203969722afad2d29f09a614.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sam Haris\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\nn\android\rideshare\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_e5f50bf70415718ec9d52076cbb58c7a7b045e94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sam Haris\.android\build-cache\12bf729df2b9f2d9b4561ee03ee81615f5c31514\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\nn\android\rideshare\app\build\intermediates\pre-dexed\debug\classes_85751b5991c69b4e3499528841f521cad0e5ee6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sam Haris\.android\build-cache\5f509d25ccd733737cc60013e6abadfab76e85d5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="D:\nn\android\rideshare\app\build\intermediates\pre-dexed\debug\classes_5d1113b09110b9628139c2457fda50b1a650bb4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sam Haris\.android\build-cache\ba7253d87d520ef2f152c55fb59bf45d935296ac\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="D:\nn\android\rideshare\app\build\intermediates\pre-dexed\debug\classes_0fab0baebb5aa9abe884978fc0799717bbdd6d10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sam Haris\.android\build-cache\48b948be6104d918d7f64225c89132359ad1f09f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="D:\nn\android\rideshare\app\build\intermediates\pre-dexed\debug\classes_eb199fc7ce418a46679cc34854466e710043b4e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sam Haris\.android\build-cache\26ba0e011bee8f901f6411d54c0b87699f706518\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="D:\nn\android\rideshare\app\build\intermediates\pre-dexed\debug\classes_fdf54e88110865bfd7d467c828d8630131ce658e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sam Haris\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="D:\nn\android\rideshare\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_9d72c575bcd7e87688de6100990ed65d85ff065b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sam Haris\.android\build-cache\26ba0e011bee8f901f6411d54c0b87699f706518\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="D:\nn\android\rideshare\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_01dbf3b7e9abb7dca27a6c20858d979026377a2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sam Haris\.android\build-cache\49b3572d61062c869cb4b1bce5abd4ea6f162a11\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="D:\nn\android\rideshare\app\build\intermediates\pre-dexed\debug\classes_c4ce43d5b05b45bde27a23d4cfbbea86f439a968.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sam Haris\.android\build-cache\1de2ad96eb783ec57f3dcd2e24842fd092cf87c8\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="D:\nn\android\rideshare\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_ca03bd37acfd0ebba594952e21f08dee474274a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sam Haris\.android\build-cache\93b6cafa66a2be03f8b0c0ad2d9b401ae4b1c89f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb2ef781533c3f11c4e80341cbaebad275c66586">
+        <dex dex="D:\nn\android\rideshare\app\build\intermediates\pre-dexed\debug\classes_dbb7d861e5f3671f47e46689d468fded41fb761a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sam Haris\.android\build-cache\9c3d65736fe0ba6ac4c4bd36b6c22f8837e5a1b5\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="D:\nn\android\rideshare\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_c471e5aac72593383d2a85fbbce34b80384012e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sam Haris\.android\build-cache\ef06f94985dc2c611b08a1fec8b2c6183508f16d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="D:\nn\android\rideshare\app\build\intermediates\pre-dexed\debug\classes_1ea1036aa2a494991a792dfefe5532619111d982.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sam Haris\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="D:\nn\android\rideshare\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.4.0_85168f46c7e55be19dfe8e92338b06f8d2c3a2c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sam Haris\.android\build-cache\1de2ad96eb783ec57f3dcd2e24842fd092cf87c8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="D:\nn\android\rideshare\app\build\intermediates\pre-dexed\debug\classes_a9383f34e44998e3f7f096e86fc78c691b9de5b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sam Haris\.android\build-cache\d6083a140b1c5d9a896cb56386c33ba20d7827db\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="D:\nn\android\rideshare\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_2bb5f4da065908a8966ca18e025519173c2cfe4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sam Haris\.android\build-cache\5f509d25ccd733737cc60013e6abadfab76e85d5\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\nn\android\rideshare\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_ef3f6db1881dd0828df169102a69604d3f821f21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sam Haris\.android\build-cache\d6083a140b1c5d9a896cb56386c33ba20d7827db\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="D:\nn\android\rideshare\app\build\intermediates\pre-dexed\debug\classes_31259d673c6d5fb79aab44a1955c4c55caa47080.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sam Haris\.android\build-cache\9c3d65736fe0ba6ac4c4bd36b6c22f8837e5a1b5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="D:\nn\android\rideshare\app\build\intermediates\pre-dexed\debug\classes_70941053f643f8aa2faab2c647785865c6ff78a4.jar" />
+    </item>
+
+</items>
