@@ -67,8 +67,8 @@
     <string name="pref_title_vibrate">Vibrate</string>
     <string name="title_activity_issue">Your ride is coming!!</string>
 
-    <string name="facebook_app_id">1043850645721185</string>
-    <string name="fb_login_protocol_scheme">1043850645721185</string>
+    <string name="facebook_app_id"></string>
+    <string name="fb_login_protocol_scheme"></string>
 
 
 </resources>
